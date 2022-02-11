@@ -4,7 +4,7 @@
 #### Note: Throttling using Quartz is only supported for Intel Haswell Architectures
 Step 1: Run the autocompile and install script
 ```
- cd 
+ cd  memthrottle
   ./install_quartz.sh
 ```
 
