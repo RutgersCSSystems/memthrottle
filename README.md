@@ -1,6 +1,6 @@
 # memthrottle
 
-# Script and tools based HP's Quartz simulator to reduce DRAM bandwidth
+# Tools based on HP's Quartz simulator to reduce DRAM bandwidth
 ### More documentation will be added soon.
 
 #### Note: Throttling using Quartz is only supported in Intel Haswell Architectures
