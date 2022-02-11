@@ -3,7 +3,7 @@
 # Tools based on HP's Quartz simulator to reduce DRAM bandwidth
 ### More documentation will be added soon.
 
-#### Note: Throttling using Quartz is only supported in Intel Haswell Architectures
+#### Note: Throttling using Quartz is only supported for Intel Haswell Architectures
 Step 1: Run the autocompile and install script
 ```
  cd 
