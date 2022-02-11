@@ -1,5 +1,3 @@
-# memthrottle
-
 # Tools based on HP's Quartz simulator to reduce DRAM bandwidth
 ### More documentation will be added soon.
 
